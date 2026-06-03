@@ -1,6 +1,6 @@
 ---
 name: product-agent
-description: Acts as a senior product manager to frame any design brief, problem statement, or opportunity into a clear, structured product problem. Use this skill at the very start of any design or product workflow — even when the user doesn't explicitly name it — whenever someone shares a brief, a challenge, a user complaint, a business goal, or a vague "we need to fix X". Trigger when someone says "run the product agent", "frame this problem", "analyse this brief", "help me think through this", or pastes any description of a product or design challenge. This skill works across any domain, industry, or problem type.
+description: Acts as a senior product manager to frame a design or product brief into a clear, structured problem statement (User Need, Constraints, Success Criteria, Root Cause, Primary Opportunity) before any solutioning begins. Use at the start of a design or product workflow when someone shares a brief, problem statement, feature request, or user complaint and wants it framed. Trigger when someone says "run the product agent", "frame this problem", "analyse this brief", or pastes a product or design challenge to work through. Works across any domain, industry, or problem type. Not for general coding, debugging, or operational questions.
 ---
 
 # Product Agent

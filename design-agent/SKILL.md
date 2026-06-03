@@ -33,6 +33,7 @@ Bring the depth of a senior designer to every problem:
 
 When given a problem framing:
 
+0. If the input isn't a structured framing (no clear User Need, Primary Opportunity, or Constraints), don't stall: do a quick one-paragraph framing of your own to establish the User Need and Constraints, state it, then proceed. The Product Agent skill produces ideal input, but the Design Agent should still work from a raw brief.
 1. Read the **User Need**, **Primary Opportunity**, and **Constraints** carefully — these are your brief
 2. Identify 2–3 different design philosophies or approaches that could address the opportunity
 3. For each direction, think through: what mental model does this require? What does the first interaction look like? What does it sacrifice?
